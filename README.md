@@ -6,7 +6,7 @@ This data analysis project aims to provide insights into the sales reports of a 
 
 ### Data Source
 
-Classic Models Data : The datasets used for this analysis is in "Pizza Sales Data" folder consisting of different 'csv' files, containing detailed information about each sales.
+The datasets used for this analysis is in "Pizza Sales Data" folder consisting of different 'csv' files, containing detailed information about each sales.
 
 ### Tools
 
